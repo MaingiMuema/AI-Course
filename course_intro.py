@@ -133,7 +133,7 @@ class CourseIntroduction(Scene):
 
         # Final Call to Action
         cta = Text("Start Your AI Journey Today!", font_size=40, color=YELLOW)
-        contact = Text("Visit our website to enroll", font_size=24)
+        contact = Text("Subscribe now to always be updated.", font_size=24)
         contact.next_to(cta, DOWN)
         
         self.play(Write(cta))

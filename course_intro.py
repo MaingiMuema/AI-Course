@@ -106,6 +106,7 @@ class CourseIntroduction(Scene):
 
         # Key Benefits
         benefits_title = Text("Why Choose This Course?", font_size=36, color=GREEN)
+        benefits_title.to_edge(UP, buff=0.5)  # Position at top of screen
         self.play(Write(benefits_title))
         self.wait(1)
         
@@ -122,9 +123,9 @@ class CourseIntroduction(Scene):
         for i, benefit in enumerate(benefits):
             benefit_text = Text(benefit, font_size=30)
             if i == 0:
-                benefit_text.next_to(benefits_title, DOWN*2)
+                benefit_text.next_to(benefits_title, DOWN, buff=0.5)  # Reduced spacing
             else:
-                benefit_text.next_to(benefits_group[-1], DOWN)
+                benefit_text.next_to(benefits_group[-1], DOWN, buff=0.3)  # Reduced spacing between items
             benefits_group.add(benefit_text)
             self.play(Write(benefit_text))
         

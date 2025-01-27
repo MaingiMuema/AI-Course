@@ -26,7 +26,7 @@ class CourseIntroduction(Scene):
         stages_data = [
             {
                 "title": "Stage 1: AI Foundations",
-                "duration": "4-6 weeks",
+                "duration": "2-4 weeks",
                 "points": [
                     "• Python & Essential Math",
                     "• AI History & Types",
@@ -36,7 +36,7 @@ class CourseIntroduction(Scene):
             },
             {
                 "title": "Stage 2: ML Fundamentals",
-                "duration": "6-8 weeks",
+                "duration": "3-6 weeks",
                 "points": [
                     "• Supervised Learning",
                     "• Unsupervised Learning",
@@ -46,7 +46,7 @@ class CourseIntroduction(Scene):
             },
             {
                 "title": "Stage 3: Deep Learning",
-                "duration": "8-10 weeks",
+                "duration": "4-8 weeks",
                 "points": [
                     "• Neural Networks",
                     "• CNN & RNN",

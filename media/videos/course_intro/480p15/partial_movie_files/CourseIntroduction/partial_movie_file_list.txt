@@ -58,5 +58,5 @@ file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/par
 file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_2844360058_1856995733.mp4'
 file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_3503795784_2068488866.mp4'
 file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_4086919811_1663882945.mp4'
-file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_1473452934_2184216866.mp4'
-file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_2844360058_288241404.mp4'
+file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_1801900661_2184216866.mp4'
+file 'file:C:/Users/USHER/Desktop/AI-Course/media/videos/course_intro/480p15/partial_movie_files/CourseIntroduction/624642324_2844360058_3746823800.mp4'

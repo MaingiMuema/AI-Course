@@ -1,2 +1,2 @@
 # AI-Course
-This an AI foundational Course build using manim
+This an AI foundational Course built using manim
